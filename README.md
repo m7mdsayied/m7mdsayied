@@ -1,7 +1,7 @@
 # Hi, I'm Mohamed Sayed 👋
 
 **AI/ML Engineer · Data Scientist · NLP & LLM Systems**  
-📍 Egypt &nbsp;|&nbsp; 🏢 [@ECES](https://www.eeces.org) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/m7mdsayied)
+📍 Egypt &nbsp;|&nbsp; 🏢 [@ECES](https://eces.org.eg/en/) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/m7mdsayied)
 
 ---
 
@@ -20,7 +20,7 @@ I engineer AI systems that solve real production problems — crawlers, RAG pipe
 
 ```python
 languages   = ["Python", "SQL"]
-ml_nlp      = ["scikit-learn", "LangChain", "RAG", "Vector Embeddings", "Arabic NLP"]
+ml_nlp      = ["scikit-learn", "LangChain", "PyTorch", "RAG", "Vector Embeddings", "Arabic NLP"]
 data_eng    = ["Web Scraping", "ETL Pipelines", "pandas", "NumPy"]
 viz         = ["Power BI", "Matplotlib", "Seaborn"]
 automation  = ["LaTeX/XeLaTeX", "Streamlit"]
